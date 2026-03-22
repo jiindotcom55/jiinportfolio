@@ -1,0 +1,3 @@
+remote_theme: xdanger/jekyll-theme-notion
+plugins:
+  - jekyll-remote-theme
